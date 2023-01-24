@@ -13,7 +13,7 @@
   name="description"
   content="A conference &amp;amp; presentation aggregator web app for attendees and presenters. Developed full-stack, single-page web app with Restful API. Combined custom and third party API calls.Implemented poller/ rabbitMQ for communication between microservices.
 Tech stack # Django REST framework, React, Python, JavaScript, PostgreSQL, Docker, RabbitMQ, RabbitMQ, RESTful API&amp;rsquo;s
-External API Integrations # Pexels Provides a access token for full list of available public resources. The gitlab.Gitlab class provides managers to access the GitLab resources."
+External API Integrations # Pexels API to get the URL of a picture of the city when create a new location instance"
 />
 <meta
   name="keywords"
@@ -49,14 +49,14 @@ External API Integrations # Pexels Provides a access token for full list of avai
 <meta name="twitter:title" content="Conference Go"/>
 <meta name="twitter:description" content="A conference &amp; presentation aggregator web app for attendees and presenters. Developed full-stack, single-page web app with Restful API. Combined custom and third party API calls.Implemented poller/ rabbitMQ for communication between microservices.
 Tech stack # Django REST framework, React, Python, JavaScript, PostgreSQL, Docker, RabbitMQ, RabbitMQ, RESTful API&rsquo;s
-External API Integrations # Pexels Provides a access token for full list of available public resources. The gitlab.Gitlab class provides managers to access the GitLab resources."/>
+External API Integrations # Pexels API to get the URL of a picture of the city when create a new location instance"/>
 
 
 
 <meta property="og:title" content="Conference Go" />
 <meta property="og:description" content="A conference &amp; presentation aggregator web app for attendees and presenters. Developed full-stack, single-page web app with Restful API. Combined custom and third party API calls.Implemented poller/ rabbitMQ for communication between microservices.
 Tech stack # Django REST framework, React, Python, JavaScript, PostgreSQL, Docker, RabbitMQ, RabbitMQ, RESTful API&rsquo;s
-External API Integrations # Pexels Provides a access token for full list of available public resources. The gitlab.Gitlab class provides managers to access the GitLab resources." />
+External API Integrations # Pexels API to get the URL of a picture of the city when create a new location instance" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://katekang0815.github.io/post/conferencego/" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2022-06-01T00:00:00+00:00" />
@@ -197,17 +197,17 @@ External API Integrations # Pexels Provides a access token for full list of avai
   <a href="#external-api-integrations" class="h-anchor" aria-hidden="true">#</a>
 </h3>
 <ul>
-<li><a href="https://python-gitlab.readthedocs.io/en/stable/api-usage.html">Pexels</a>
-<ul>
-<li>Provides a access token for full list of available public resources.</li>
-<li>The gitlab.Gitlab class provides managers to access the GitLab resources. Each manager provides a set of methods to act on the resources. The available methods depend on the resource type.</li>
-</ul>
+<li>
+<p><a href="https://www.pexels.com/api/documentation/#photos-search">Pexels</a>
+API to get the URL of a picture of the city when create a new location instance</p>
 </li>
-<li><a href="https://docs.gitlab.com/ee/api/projects.html">Weather </a>
-<ul>
-<li>Get a list of the public project can be accessed without any authentication.</li>
-<li>Retrieve data from the each project for the attribute: projectId, project name, group name, group id, team members, language usage, commits distributions,started date.</li>
-</ul>
+<li>
+<p><a href="https://openweathermap.org/api/geocoding-api">Geocoding API </a>
+Translating the city and state for the conference into latitude and longitude</p>
+</li>
+<li>
+<p><a href="https://openweathermap.org/current">Current weather data </a>
+API to get the current weather for the latitude and longitude found in the Geocoding API</p>
 </li>
 </ul>
 <h3 id="conference-form">
@@ -298,7 +298,7 @@ External API Integrations # Pexels Provides a access token for full list of avai
 
       <div class="copyright">
         <span>© 2023 Powered by <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a></span>
-        <span><a href="https://github.com/panr/hugo-theme-hello-friend" target="_blank">Theme</a> made by <a href="https://github.com/panr" target="_blank">panr</a></span>
+        
       </div>
     
   </div>

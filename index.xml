@@ -151,7 +151,7 @@ GHI Design # The three services intersect at a point represented by an Automobil
         
           A conference &amp;amp; presentation aggregator web app for attendees and presenters. Developed full-stack, single-page web app with Restful API. Combined custom and third party API calls.Implemented poller/ rabbitMQ for communication between microservices.
 Tech stack # Django REST framework, React, Python, JavaScript, PostgreSQL, Docker, RabbitMQ, RabbitMQ, RESTful API&amp;rsquo;s
-External API Integrations # Pexels Provides a access token for full list of available public resources. The gitlab.Gitlab class provides managers to access the GitLab resources.
+External API Integrations # Pexels API to get the URL of a picture of the city when create a new location instance
           
         
         </description>
