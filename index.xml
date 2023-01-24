@@ -9,17 +9,37 @@
     <description>Recent content on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://katekang0815.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Showcase</title>
-      <link>http://katekang0815.github.io/post/showcase/</link>
+      <title>Scrumptious Recipes</title>
+      <link>http://katekang0815.github.io/scrumptiousrecipes/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://katekang0815.github.io/post/showcase/</guid>
+      <guid>http://katekang0815.github.io/scrumptiousrecipes/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Hi there # My name is Yehsun and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>http://katekang0815.github.io/showcase/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://katekang0815.github.io/showcase/</guid>
       <description>
         
           
@@ -35,11 +55,31 @@
     </item>
     
     <item>
-      <title>Hello Friend</title>
-      <link>http://katekang0815.github.io/post/hello/</link>
-      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      <title>Wardrofy</title>
+      <link>http://katekang0815.github.io/wordrofy/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://katekang0815.github.io/post/hello/</guid>
+      <guid>http://katekang0815.github.io/wordrofy/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Hi there # My name is Yehsun and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>http://katekang0815.github.io/hello/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://katekang0815.github.io/hello/</guid>
       <description>
         
           &lt;img src=&#34;http://katekang0815.github.io/img/hello.jpg&#34;/&gt;
@@ -47,7 +87,71 @@
         
         
         
-          &#34;Hello, friend?&#34; Welcome to showcase of my projects. Please, look around and check whether this is what you are looking for.
+          &amp;ldquo;Hello, friend?&amp;rdquo; Welcome to showcase of my projects. Please, look around and check whether this is what you are looking for. We have to remember that&amp;hellip;
+— Mr. Robot S01E01
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Project Spark</title>
+      <link>http://katekang0815.github.io/post/projectspark/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://katekang0815.github.io/post/projectspark/</guid>
+      <description>
+        
+          &lt;img src=&#34;http://katekang0815.github.io/img/spark/main.png&#34;/&gt;
+          
+        
+        
+        
+          A central hub to view, collaborate, and comment on all cohort&amp;rsquo;s projects from the 19-week Hack Reactor Software Engineering Immersive program. Students of the May cohort and all future cohorts that could benefit from having a website dedicated to displaying sample projects, as well as all Hack Reactor staff and alumni.
+Tech stack # Django REST framework, React, Python, JavaScript, PostgreSQL, Docker, SimpleJWT auth
+API design # For API endpoints for projects in-depth, look at API design
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Car Car</title>
+      <link>http://katekang0815.github.io/post/carcar/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://katekang0815.github.io/post/carcar/</guid>
+      <description>
+        
+          &lt;img src=&#34;http://katekang0815.github.io/img/car/main.png&#34;/&gt;
+          
+        
+        
+        
+          A CRUD app that allows Car dealers to manage inventory, technicians to track record of services and customers to create a service request. Enhanced backend Restful API endpoints to optimize data delivery and React hooks to manage stateful components.
+Tech stack # Django REST framework, Python, JavaScript, PostgreSQL, Docker, React, RESTful API&amp;rsquo;s
+GHI Design # The three services intersect at a point represented by an Automobile. Each microservice interprets and focuses on it a different way.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Conference Go</title>
+      <link>http://katekang0815.github.io/post/conferencego/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://katekang0815.github.io/post/conferencego/</guid>
+      <description>
+        
+          &lt;img src=&#34;http://katekang0815.github.io/img/conference/main.png&#34;/&gt;
+          
+        
+        
+        
+          A conference &amp;amp; presentation aggregator web app for attendees and presenters. Developed full-stack, single-page web app with Restful API. Combined custom and third party API calls.Implemented poller/ rabbitMQ for communication between microservices.
+Tech stack # Django REST framework, React, Python, JavaScript, PostgreSQL, Docker, RabbitMQ, RabbitMQ, RESTful API&amp;rsquo;s
+External API Integrations # Pexels Provides a access token for full list of available public resources. The gitlab.Gitlab class provides managers to access the GitLab resources.
           
         
         </description>
@@ -68,6 +172,26 @@
         
         
           
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Hi there</title>
+      <link>http://katekang0815.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://katekang0815.github.io/about/</guid>
+      <description>
+        
+          &lt;img src=&#34;http://katekang0815.github.io/img/22.jpeg&#34;/&gt;
+          
+        
+        
+        
+          My name is Yehsun, having architecture background pivoted my growth path toward a software engineer through BootCamp coding school in 2022 to make myself more useful to our community. I&amp;rsquo;m future-oriented, anything would make our tomorrow better, I&amp;rsquo;m in. My interest includes:
+Domain-Driven Design, Python3, Javascript ES6 Back-End: Django Framework, PostgreSQL, RabbitMQ Front-End: React, DOM manipulation If you have any questions, feel free to contact me at yehsunkang@gmail.com.
           
         
         </description>
