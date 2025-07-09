@@ -15,8 +15,7 @@ Displays the total likes for each tool by counting all records where liked = tru
 
 - User Isolation
 Tracks each user's likes separately so multiple people can like the same tool independently.
-
-### This design tracks individual user preferences while maintaining accurate overall like counts for each tool.
+This design tracks individual user preferences while maintaining accurate overall like counts for each tool.
 
 ✅ Tech Highlights
 - Database Integration: Stored user interaction data in the VibeToolKit Database
