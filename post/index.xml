@@ -2,121 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hello Friend</title>
-    
-    
-    
     <link>http://katekang0815.github.io/post/</link>
     <description>Recent content in Posts on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://katekang0815.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://katekang0815.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+
     <item>
       <title>Habit Connect</title>
       <link>http://katekang0815.github.io/post/habitconnect/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://katekang0815.github.io/post/habitconnect/</guid>
       <description>
-        
-          &lt;img src=&#34;http://katekang0815.github.io/img/habit/1.png&#34;/&gt;
-          
-        
-        
-        
-          HabitConnect is a Habit Builder and Networking app designed specifically for job seekers to help them maintain their routines by sharing their habit lists, statistics, and networking through LinkedIn, and collaborating on Notion workspaces.
-Tech stack # TypeScript, React, Supabase, Figma, Tailwind CSS
-Key Features # Create habits to build (8 max), Statistics to track completed tasks, Break feature, Social networking page, Profile sharing controls, OAuth2 authentication
-          
-        
-        </description>
+        &lt;img src=&#34;http://katekang0815.github.io/img/habit/1.png&#34;/&gt;
+        HabitConnect is a Habit Builder and Networking app designed specifically for job seekers to help them maintain their routines by sharing their habit lists, statistics, and networking through LinkedIn, and collaborating on Notion workspaces.
+        Tech stack # TypeScript, React, Supabase, Figma, Tailwind CSS
+        Key Features # Create habits to build (8 max), Statistics to track completed tasks, Break feature, Social networking page, Profile sharing controls, OAuth2 authentication
+      </description>
     </item>
-    
+
     <item>
       <title>Project Spark</title>
       <link>http://katekang0815.github.io/post/projectspark/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://katekang0815.github.io/post/projectspark/</guid>
       <description>
-        
-          &lt;img src=&#34;http://katekang0815.github.io/img/spark/main.png&#34;/&gt;
-          
-        
-        
-        
-          A central hub to view, collaborate, and comment on all cohort&amp;rsquo;s projects from the 19-week Hack Reactor Software Engineering Immersive program. Students of the May cohort and all future cohorts that could benefit from having a website dedicated to displaying sample projects, as well as all Hack Reactor staff and alumni.
-Tech stack # Django REST framework, React, Python, JavaScript, PostgreSQL, Docker, SimpleJWT auth
-API design # For API endpoints for projects in-depth, look at API design
-          
-        
-        </description>
+        &lt;img src=&#34;http://katekang0815.github.io/img/spark/main.png&#34;/&gt;
+        A central hub to view, collaborate, and comment on all cohort&amp;rsquo;s projects from the 19-week Hack Reactor Software Engineering Immersive program. Students of the May cohort and all future cohorts that could benefit from having a website dedicated to displaying sample projects, as well as all Hack Reactor staff and alumni.
+        Tech stack # Django REST framework, React, Python, JavaScript, PostgreSQL, Docker, SimpleJWT auth
+        API design # For API endpoints for projects in-depth, look at API design
+      </description>
     </item>
-    
+
     <item>
       <title>Car Car</title>
       <link>http://katekang0815.github.io/post/carcar/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://katekang0815.github.io/post/carcar/</guid>
       <description>
-        
-          &lt;img src=&#34;http://katekang0815.github.io/img/car/main.png&#34;/&gt;
-          
-        
-        
-        
-          A CRUD app that allows Car dealers to manage inventory, technicians to track record of services and customers to create a service request. Enhanced backend Restful API endpoints to optimize data delivery and React hooks to manage stateful components.
-Tech stack # Django REST framework, Python, JavaScript, PostgreSQL, Docker, React, RESTful API&amp;rsquo;s
-GHI Design # The three services intersect at a point represented by an Automobile. Each microservice interprets and focuses on it a different way.
-          
-        
-        </description>
+        &lt;img src=&#34;http://katekang0815.github.io/img/car/main.png&#34;/&gt;
+        A CRUD app that allows Car dealers to manage inventory, technicians to track record of services and customers to create a service request. Enhanced backend Restful API endpoints to optimize data delivery and React hooks to manage stateful components.
+        Tech stack # Django REST framework, Python, JavaScript, PostgreSQL, Docker, React, RESTful API&amp;rsquo;s
+        GHI Design # The three services intersect at a point represented by an Automobile. Each microservice interprets and focuses on it a different way.
+      </description>
     </item>
-    
+
     <item>
       <title>Conference Go</title>
       <link>http://katekang0815.github.io/post/conferencego/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://katekang0815.github.io/post/conferencego/</guid>
       <description>
-        
-          &lt;img src=&#34;http://katekang0815.github.io/img/conference/main.png&#34;/&gt;
-          
-        
-        
-        
-          A conference &amp;amp; presentation aggregator web app for attendees and presenters. Developed full-stack, single-page web app with Restful API. Combined custom and third party API calls.Implemented poller/ rabbitMQ for communication between microservices.
-Tech stack # Django REST framework, React, Python, JavaScript, PostgreSQL, Docker, RabbitMQ, RabbitMQ, RESTful API&amp;rsquo;s
-External API Integrations # Pexels API to get the URL of a picture of the city when create a new location instance
-          
-        
-        </description>
+        &lt;img src=&#34;http://katekang0815.github.io/img/conference/main.png&#34;/&gt;
+        A conference &amp;amp; presentation aggregator web app for attendees and presenters. Developed full-stack, single-page web app with Restful API. Combined custom and third party API calls. Implemented poller/rabbitMQ for communication between microservices.
+        Tech stack # Django REST framework, React, Python, JavaScript, PostgreSQL, Docker, RabbitMQ, RESTful API&amp;rsquo;s
+        External API Integrations # Pexels API to get the URL of a picture of the city when creating a new location instance
+      </description>
     </item>
-    
+
     <item>
       <title>Archive</title>
       <link>http://katekang0815.github.io/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://katekang0815.github.io/archive/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <description></description>
     </item>
-    
   </channel>
 </rss>
