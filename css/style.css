@@ -725,7 +725,8 @@ h4:hover a {
     display: flex;
     flex-direction: row;
     align-items: center;
-    font-size: 1rem; }
+    margin: 0 12px; 
+    font-size: 1.8rem; }
     .footer .copyright--user {
       margin: auto;
       text-align: center; }
