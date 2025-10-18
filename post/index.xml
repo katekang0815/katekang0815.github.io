@@ -9,10 +9,31 @@
     <description>Recent content in Posts on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://katekang0815.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Habit Connect</title>
+      <link>http://katekang0815.github.io/post/habitconnect/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://katekang0815.github.io/post/habitconnect/</guid>
+      <description>
+        
+          &lt;img src=&#34;http://katekang0815.github.io/img/habit/1.png&#34;/&gt;
+          
+        
+        
+        
+          HabitConnect is a Habit Builder and Networking app designed specifically for job seekers to help them maintain their routines by sharing their habit lists, statistics, and networking through LinkedIn, and collaborating on Notion workspaces.
+Tech stack # TypeScript, React, Supabase, Figma, Tailwind CSS
+Key Features # Create habits to build (8 max), Statistics to track completed tasks, Break feature, Social networking page, Profile sharing controls, OAuth2 authentication
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Project Spark</title>
