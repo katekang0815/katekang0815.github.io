@@ -592,7 +592,7 @@ h4:hover a {
   padding: 20px;
   margin: 20px auto; }
   .post.on-list {
-  padding-left: 0;}
+  padding-left: -10px;}
   @media (max-width: 900px) {
     .post {
       max-width: 660px; } }
