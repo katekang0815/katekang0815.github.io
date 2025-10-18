@@ -591,6 +591,8 @@ h4:hover a {
   text-align: left;
   padding: 20px;
   margin: 20px auto; }
+  .post.on-list {
+  padding-left: 0;}
   @media (max-width: 900px) {
     .post {
       max-width: 660px; } }
