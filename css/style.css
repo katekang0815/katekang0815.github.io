@@ -622,9 +622,9 @@ h4:hover a {
   .post-content {
     margin-top: 30px; }
   .post-cover {
-    margin: 40px -50px;
-    width: 860px;
-    max-width: 860px; }
+    margin: 40px 0;
+    width: 100%;
+    max-width: 100%; }
     .post-cover img {
       margin: 0 auto;
       border-radius: 8px;
