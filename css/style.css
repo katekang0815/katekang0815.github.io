@@ -188,8 +188,14 @@ a.read-more:active {
   display: flex;
   align-items: center;
   justify-content: center;
-  position: relative;
-  padding: 20px; }
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  padding: 20px;
+  z-index: 1000;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); }
   .header__right {
     display: flex;
     flex-direction: row;
@@ -523,7 +529,8 @@ ol ol {
 .container {
   display: flex;
   flex-direction: column;
-  justify-content: center; }
+  justify-content: center;
+  padding-top: 84px; }
 
 .content {
   display: flex;
@@ -1099,5 +1106,3 @@ div.code-toolbar > .toolbar span:focus {
     width: 100%;
     opacity: 0.5;
   }
-
-  
