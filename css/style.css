@@ -750,7 +750,8 @@ h4:hover a {
           margin: 0; } }
     .footer .copyright a {
       position: relative;
-      padding: 0 10px; }
+      padding: 0 10px;
+      text-decoration: none; }
     .footer .copyright a:first-child {
       padding-left: 0; }
     .footer .copyright a:last-child {
