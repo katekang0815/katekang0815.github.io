@@ -717,8 +717,7 @@ h4:hover a {
   padding: 40px 20px;
   flex-grow: 0;
   color: var(--color-secondary);
-  background: var(--background);
-  border-top: 1px solid var(--border-color); }
+  background: var(--background);}
   .footer__inner {
     display: flex;
     align-items: center;
