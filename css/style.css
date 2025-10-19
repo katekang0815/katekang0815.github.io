@@ -531,8 +531,7 @@ ol ol {
 .container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  padding-bottom: 140px; }
+  justify-content: center; }
 
 .content {
   display: flex;
@@ -717,16 +716,12 @@ h4:hover a {
     margin-right: 8px; }
 
 .footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
+  position: relative;
   width: 100%;
   padding: 40px 20px;
   flex-grow: 0;
   color: var(--color-secondary);
   background: var(--background);
-  z-index: 1000;
   border-top: 1px solid var(--border-color); }
   .footer__inner {
     display: flex;
