@@ -188,9 +188,12 @@ a.read-more:active {
   display: flex;
   align-items: center;
   justify-content: center;
-  position: relative;
+  position: fixed;
+  top: 0;
   width: 100%;
-  padding: 20px; }
+  padding: 20px;
+  z-index: 100;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); }
   .header__right {
     display: flex;
     flex-direction: row;
@@ -367,7 +370,7 @@ html {
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 90px 0 0 0;
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",  Helvetica, Arial, sans-serif;
   font-size: 1rem;
   font-weight: 500;
@@ -749,15 +752,6 @@ h4:hover a {
     .footer .copyright a {
       position: relative;
       padding: 0 10px; }
-    .footer .copyright a:not(:last-child)::after {
-      content: "";
-      position: absolute;
-      right: 0;
-      top: 50%;
-      transform: translateY(-50%);
-      height: 16px;
-      width: 1px;
-      background-color: var(--color-secondary); }
     .footer .copyright a:first-child {
       padding-left: 0; }
     .footer .copyright a:last-child {
