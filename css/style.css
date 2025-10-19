@@ -709,7 +709,6 @@ h4:hover a {
 
 .footer {
   padding: 40px 20px;
-  border: 1px solid red;
   flex-grow: 0;
   color: var(--color-secondary); }
   .footer__inner {
