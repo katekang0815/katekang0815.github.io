@@ -1097,5 +1097,15 @@ div.code-toolbar > .toolbar span:focus {
     border-top: 1px solid var(--border-color, rgba(255, 255, 255, 0.1));
     margin: 2rem 0;
     width: 100%;
-    opacity: 0.3;
+    opacity: 0.5;
+  }
+
+  .post-cover a {
+    display: block;
+    position: relative;
+    z-index: 5;
+}
+  .post-cover img {
+    cursor: pointer;
+    pointer-events: auto;
   }
