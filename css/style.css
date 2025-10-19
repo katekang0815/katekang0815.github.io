@@ -758,6 +758,22 @@ h4:hover a {
           border: none;
           padding: 0;
           margin: 0; } }
+    .footer .copyright a {
+      position: relative;
+      padding: 0 10px; }
+    .footer .copyright a:not(:last-child)::after {
+      content: "";
+      position: absolute;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      height: 16px;
+      width: 1px;
+      background-color: var(--color-secondary); }
+    .footer .copyright a:first-child {
+      padding-left: 0; }
+    .footer .copyright a:last-child {
+      padding-right: 0; }
     @media (max-width: 900px) {
       .footer .copyright {
         flex-direction: column;
