@@ -195,7 +195,8 @@ a.read-more:active {
   width: 100%;
   padding: 20px;
   z-index: 1000;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); }
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease; }
   .header__right {
     display: flex;
     flex-direction: row;
@@ -383,7 +384,8 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
-  -webkit-text-size-adjust: 100%; }
+  -webkit-text-size-adjust: 100%;
+  padding-top: 84px; }
   @media (max-width: 684px) {
     body {
       font-size: 1rem; } }
@@ -530,7 +532,6 @@ ol ol {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding-top: 84px;
   padding-bottom: 140px; }
 
 .content {
